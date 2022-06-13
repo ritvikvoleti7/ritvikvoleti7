@@ -20,8 +20,8 @@
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ritvikvoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritvikvoleti7" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/ritvik-voleti-4a57091a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-singh-25ba02172" height="30" width="40" /></a>
+<a href="https://twitter.com/ritvikvoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritvikvoleti7" height="30" width="40" /></a> 
 <!-- <a href="https://instagram.com//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="max09d_" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvdagar1999" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruv09d" height="30" width="40" /></a> -->
