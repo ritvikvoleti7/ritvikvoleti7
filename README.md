@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritvikvoleti7&label=Profile%20views&color=0e75b6&style=flat" alt="ritvikvoleti7" /> </p>
 
-- 🔭 I'll be doing my Master of Computer Science (MCS) Full Time at [Dalhousie University] (https://www.dal.ca/) starting Fall 2022 .
+- 🔭 I am pursuing Master of Computer Science (MCS) Full Time at [Dalhousie University] (https://www.dal.ca/) Fall 2022.
 
 - 🌱 I’m currently learning **Data Science(Python) and Machine Learning 💻**
 
