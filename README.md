@@ -5,7 +5,7 @@
 
 - 🔭 I completed my Master of Computer Science (MCS) program at Dalhousie University (https://www.dal.ca/) from Sep-2022 to Dec-2024.
 
-- 🌱 I’m currently learning **Data Science(Python) and Machine Learning 💻**
+- 🌱 I have worked on Data Science and Machine Learning projects and posess a strong interest in this area of specialization. 💻**
 
 - 👯 I’m looking to contribute on any Open Source Project involving Data Science / Machine Learning.
 
