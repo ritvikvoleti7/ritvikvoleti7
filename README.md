@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritvik Voleti</h1>
-<h3 align="center">I'm a Student, Software engineer and a Friend!!</h3>
+<h3 align="center">I'm a Graduate from Dalhousie Univeristy, ML and Data Science enthusiast and a Friend!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritvikvoleti7&label=Profile%20views&color=0e75b6&style=flat" alt="ritvikvoleti7" /> </p>
 
