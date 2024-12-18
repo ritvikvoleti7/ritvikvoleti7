@@ -7,7 +7,7 @@
 
 - 🌱 I have worked on Data Science and Machine Learning projects and posess a strong interest in this area of specialization. 💻**
 
-- 👯 I’m looking to contribute on any Open Source Project involving Data Science / Machine Learning.
+- 👯 I’m looking to contribute on any Open Source Project involving Data Science and Machine Learning.
 
 - 💬 Ask me about **any tech stack**
 
