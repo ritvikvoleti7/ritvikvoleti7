@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/ritvikvoleti" target="blank"><img align="center" src="https://www.svgrepo.com/show/512317/x-social-media.svg" alt="ritvikvoleti" height="30" width="40" /></a>
+<a href="https://x.com/ritvikvoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X Profile" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ritvik-voleti-4a57091a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritvikvoleti_link" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ritvikvoleti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritvikvoleti_insta" height="30" width="40" /></a>
 <a href="https://scholar.google.ca/citations?user=pA84RAMAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="ritvikvoleti7" height="30" width="40" /></a>
