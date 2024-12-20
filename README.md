@@ -1,5 +1,3 @@
-# ritvikvoleti7_profile
-
 <h1 align="center">Hi 👋, I'm Ritvik Voleti</h1>
 <h3 align="center">I am a Graduate Student from Dalhousie University!!</h3>
 
