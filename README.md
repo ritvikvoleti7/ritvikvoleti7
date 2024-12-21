@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritvikvoleti7d&label=Profile%20views&color=0e75b6&style=flat" alt="ritvikvoleti7" /> </p>
 
 
-- 🌱 I’m working on **Machine Learning and Data Science projects**
+- 🌱 I’m working on **Machine Learning and Data Science projects**.
 
-- 💬 Ask me about **any tech stack**
+- 💬 Ask me about **any tech stack**.
 
-- 📫 How to reach me **ritvikvoleti@gmail.com**
+- 📫 How to reach me **ritvikvoleti@gmail.com**.
 
 - ⚡ Hobby: **I love binge watching and listening to music.**
 
